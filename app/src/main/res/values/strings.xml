@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="add_task">Thêm Công Việc</string>
+    <string name="task_title">Tên công việc</string>
+    <string name="task_time">Thời gian</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="no_tasks">Chưa có công việc nào. Hãy tận hưởng ngày của bạn!</string>
+    <string name="my_tasks">Công Việc Của Tôi</string>
+</resources>
